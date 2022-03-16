@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Javascript
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on C# developers, Frontend-Developers
-- 📫 How to reach me @devrnull (telegram)
+- 📫 How to reach me @nickstrlnkv (telegram)
 
 <!---
 nickstrlnkv/nickstrlnkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
