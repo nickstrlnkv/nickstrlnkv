@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickstrlnkv
-- 👀 I’m interested in Python, Javascript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C# developers, Frontend-Developers, Java developers
+- 👀 I’m interested in JS, NodeJS, TypeScript
+- 🌱 I’m currently learning pure JS
 - 📫 How to reach me @nickstrlnkv (telegram)
 
 <!---
