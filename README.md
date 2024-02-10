@@ -1,4 +1,4 @@
-# 👨‍💻 Nickstrlnkv
+# 👨‍💻 Nikita
 
 **`Intern Fullstack developer`**
 
